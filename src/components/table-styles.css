@@ -1,0 +1,38 @@
+td {
+  text-align: center;
+  padding-left: 30px;
+}
+th {
+  padding-left: 30px;
+}
+#root {
+  width: auto;
+
+  height: 1000px;
+}
+
+.conteiner {
+  width: 700px;
+
+  height: 700px;
+  /* margin-left: 500px; */
+  margin: 0 auto;
+}
+
+.bg-light {
+  font-size: 30px;
+  text-align: center;
+}
+
+.thead {
+  border-bottom: 3px solid black;
+
+}
+
+.tr-head {
+}
+
+.img-tbody {
+  width: 100px;
+  height: auto;
+}
